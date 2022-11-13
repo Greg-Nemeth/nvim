@@ -1,2 +1,3 @@
 require("gregnemeth.set")
-print("hello from gregnemeth")
+require("gregnemeth.keymap")
+require("gregnemeth.packer")
